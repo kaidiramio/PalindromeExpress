@@ -6,9 +6,10 @@ const MongoClient = require('mongodb').MongoClient
 
 var db, collection;
 
-// set DB as a variable
-const url = "mongodb+srv://kaid23:GZM5Yj5TBF03wgsJ@cluster0.v4oii.mongodb.net/?retryWrites=true&w=majority";
-const dbName = "palindrome";
+// set DB as a variable - please connect your own DB or reach out if you'd like to use mine
+
+const url = "mongodb+srv://username:<password>@cluster0.v4oii.mongodb.net/?retryWrites=true&w=majority"
+const dbName = ""
 
 // API --> listening and generating a response.
 // line 15-22 sets up mongo database
