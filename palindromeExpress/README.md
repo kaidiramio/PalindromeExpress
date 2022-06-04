@@ -19,7 +19,7 @@ This app is similar to the previous Palindrom express server-side, however this 
 
 **Tech used:** HTML, CSS, JavaScript
 
-My learning was focused on developing a deeper knowledge on express
+My learning was focused on developing a deeper knowledge on express.js
 
 ## Lessons Learned:
 
